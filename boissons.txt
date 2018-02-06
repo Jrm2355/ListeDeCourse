@@ -5,6 +5,7 @@ Orangina
 Jus:
 Jus de pommes
 Jus d'orange
+Jus d'ananas
 
 Alcool:
 Goudal
