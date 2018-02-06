@@ -1,0 +1,11 @@
+Soda:
+Pepsi
+Orangina
+
+Jus:
+Jus de pommes
+Jus d'orange
+
+Alcool:
+Goudal
+Jameson
