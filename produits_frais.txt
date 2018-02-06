@@ -1,0 +1,6 @@
+Viandes:
+cuisse de poulet
+sousis d'agneau
+
+Poissons:
+filet de saumon
